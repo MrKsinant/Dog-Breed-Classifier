@@ -1,6 +1,6 @@
 # Dog Breed Classifier
 
-This study corresponds to the second project of Nanodegree *Deep Learning* schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
+This study corresponds to the second project of the nanodegree *Deep Learning*, schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
 
 Its goal is to build a "very special" **dog breed classifier**: If a dog image is submitted to the algorithm, the classifier has to detect that the image corresponds to a dog and predict the dog breed, but if a human is submitted... the classifier must detect that the image corresponds to a human and indicate the most resembling dog breed! In the case of the image corresponds to no dog nor human, the classifier only has to relate that no prediction will be done.
 
